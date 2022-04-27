@@ -1,0 +1,833 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(70439035, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/70439035" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-8TJXMK3WE1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8TJXMK3WE1');
+</script> -->
+<!-- /Global site tag (gtag.js) - Google Analytics -->
+	
+    <meta charset="utf-8">
+    <title>Ошибка 404 – страница не найдена</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- <link rel="icon" href="/favicon-32x32.png?time=11254"> -->
+	<link rel="icon" type="image/x-icon" href="/bitrix/templates/modern_blue_s3/favicon-32x32.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   	<link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900&display=swap&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="МТУСИ, университет, факультеты, специальность, преподаватели" />
+<meta name="description" content="Московский Технический Университет Связи и Информатики - головной отраслевой университет в области информационных технологий, телекоммуникаций, информационной безопасности и радиотехники." />
+<link href="/bitrix/js/main/core/css/core.min.css?15876046192854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="/bitrix/cache/css/s3/modern_blue_s3/template_0f28bff3ee5a1ae413b126c44c8a549b/template_0f28bff3ee5a1ae413b126c44c8a549b_v1.css?1650572186256892" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1616253685252095"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'-10800','SITE_ID':'s3','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1650613640','USER_TZ_OFFSET':'21600','USER_TZ_AUTO':'Y','bitrix_sessid':'76f5fbe433f1b4ad0d04c0919e6c53db'});</script>
+
+
+<script type="text/javascript">BX.setJSList(['/bitrix/templates/modern_blue_s3/js/jquery.formstyler.min.js','/bitrix/templates/modern_blue_s3/js/jquery.magnificpopup.min.js','/bitrix/templates/modern_blue_s3/js/jquery.cookie.min.js','/bitrix/templates/modern_blue_s3/js/jquery.matchHeight-min.js','/bitrix/templates/modern_blue_s3/js/jquery.mobileNav.js','/bitrix/templates/modern_blue_s3/js/owl.carousel.min.js','/bitrix/templates/modern_blue_s3/js/perfect-scrollbar.jquery.min.js','/bitrix/templates/modern_blue_s3/js/main.js','/bitrix/templates/modern_blue_s3/js/special_version.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/modern_blue_s3/styles.css','/bitrix/templates/modern_blue_s3/template_styles.css','/bitrix/templates/modern_blue_s3/special_version.css']);</script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s3");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s3")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s3/modern_blue_s3/template_da0c728e48b2a95477ece9ab068ea166/template_da0c728e48b2a95477ece9ab068ea166_v1.js?1650572186129217"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "83cee54b2e59d5c337a892f2853dd8fa"]); _ba.push(["host", "mtuci.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+                                        	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+</head>
+
+<body>
+<!--LiveInternet counter-->
+<a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licntA547" width="88" height="15" style="border:0" 
+title="LiveInternet: показано число посетителей за сегодня"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licntA547").src=
+"https://counter.yadro.ru/hit?t26.8;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script>
+<!--/LiveInternet-->
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3224966", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3224966;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+<div class="mb-hide"></div>
+<div class="body-wrapper clearfix">
+	<div class="special-settings">
+		<div class="container special-panel-container">
+			<div class="content">
+				<div class="aa-block aaFontsize">
+					<div class="fl-l">Размер:</div>
+					<a class="aaFontsize-small" data-aa-fontsize="small" href="#" title="Уменьшенный размер шрифта">A</a>
+				    <a class="aaFontsize-normal a-current" href="#" data-aa-fontsize="normal" title="Нормальный размер шрифта">A</a>
+				    <a class="aaFontsize-big" data-aa-fontsize="big" href="#" title="Увеличенный размер шрифта">A</a>
+				</div>
+				<div class="aa-block aaColor">
+					Цвет:					<a class="aaColor-black a-current" data-aa-color="black" href="#" title="Черным по белому"><span>C</span></a>
+				    <a class="aaColor-yellow" data-aa-color="yellow" href="#" title="Желтым по черному"><span>C</span></a>
+				    <a class="aaColor-blue" data-aa-color="blue" href="#" title="Синим по голубому"><span>C</span></a>
+				</div>
+
+				<div class="aa-block aaImage">
+					Изображения				<span class="aaImage-wrapper">
+					<a class="aaImage-on a-current" data-aa-image="on" href="#">Вкл.</a>
+					<a class="aaImage-off" data-aa-image="off" href="#">Выкл.</a>
+				</span>
+				</div>
+				<span class="aa-block"><a href="/?set-aa=normal" data-aa-off><i class="icon icon-special-version"></i> Обычная версия сайта</a></span>
+			</div>
+		</div>
+	</div>
+
+    <header>
+	    <div class="container container-top-header">
+		    <div class="content">
+			    <div class="col col-mb-12" style="text-align: center;">
+			    	<div class="header_logo_container">
+						<span class="mb-hide header_hamburger_icon">
+							<a href="javascript:void(0)"><img src="/bitrix/templates/modern_blue_s3/images/Group@3x.png"></a>
+						</span>
+						<span class="header_website_domain">
+							<a href="/">mtuci.ru</a>						</span>
+			    	</div>
+					<span class="mb-hide header_address">
+						<ul>
+							<li class="uni_info_link">
+								<a class="header_address_content" href="/sveden/">Сведения об образовательной организации</a>
+							</li>
+							<li>
+								<span class="header_address_title">Адрес в 									<div class="dropdown2"><b>
+										<a href="javascript:void(0)" class="dropbtn2">
+											Москве																																</a></b> <span style="font-size: 18px;cursor: pointer;">&#8964;</span>
+										<div class="dropdown-content2">
+											<a href="/?city=msk">Москве</a>
+											<a href="/?city=rnd">Ростове-на-Дону</a>
+											<a href="/?city=nn">Нижнем Новгороде</a>
+										</div>
+									</div>
+								</span>
+								<span class="header_address_content">Авиамоторная ул. 8а<br>+7 (495) 957-77-31</span>
+							</li>
+							<!--
+							<li>
+								<span class="header_address_title">Секретариат</span>
+								<span class="header_address_content">+7 (495) 957-77-31</span>
+							</li>
+							-->
+							<li>
+								<span class="header_address_title">&nbsp;</span>
+								<span class="header_address_content">Приемная комиссия:<br>+7(495) 673-36-25</span>
+							</li>
+						</ul>
+					</span>
+					<span class="header_account">
+						<a href="https://lms.mtuci.ru/lms/login/index.php" target="_blank">
+							<div class="title">Кабинет студента</div>
+							<img src="/bitrix/templates/modern_blue_s3/images/Livello_1@3x.png">
+						</a>
+					</span>
+			    </div>
+		    </div>
+	    </div>
+	    <style>
+	    	.marginhead {margin-top: 60px; padding-top: 15px; padding-bottom: 5px
+
+	    	}
+	    	@-moz-document url-prefix(){
+	    	.marginhead {margin-top: 50px; padding-top: 5px; padding-bottom: 5px
+	    	}
+	    }
+	    /*@supports (not (-ms-ime-align:auto)) { .marginhead {margin-top: 50px; padding-top: 5px; padding-bottom: 5px
+	    	}}*/
+	    </style>
+
+        <!-- <div class="container container-white pt10 pb10" style="margin-top: 60px; padding-top: 15px; padding-bottom: 5px"> -->
+        <div class="container container-white pt10 pb10 marginhead" style="">
+            <div class="content header_content_mobile">
+			    <div class="col col-mb-12 sub_header">
+                    <div class="sub_header_logo">
+                        <a href="/"><img src="/bitrix/templates/modern_blue_s3/images/mtuci_logo21.png" class="header_logo"></a>
+                    </div>
+                    <span style="flex-grow: 1;"></span>
+                    <div class="sub_header_nav">
+						<span class="uni_info_link" style="text-align: left;">
+							<a class="header_address_content" style="color: #2D145D; font-weight: 500; margin-left: 2px" href="/sveden/">Сведения<br>об образовательной<br>организации</a>
+						</span>
+                    	<ul>
+                    		<li>
+                    			<a href="/abitur">Абитуриенту</a>
+                    			<!-- <a href="https://abitur.mtuci.ru/">Абитуриенту</a> -->
+                    		</li>
+                    		<li>
+                    			<a href="/students/">Студентам</a>
+                    		</li>
+                    		<li>
+                    			<a href="/staff/">Сотрудникам</a>
+                    		</li>
+                    		<li style="margin-right: 30px">
+                    			<!--a href="/about_the_university">Университет</a-->
+                    			<a href="/about_the_university/">Университет</a>
+                    		</li>
+                    	</ul>
+                    </div>
+                    <span style="flex-grow: 1;"></span>
+                    <div class="sub_header_right">
+						<span class="">
+							<span class="aa-hide" itemprop="copy">
+								<a class="fl-r mr50 vision_impaired_container" href="/?set-aa=special" data-aa-on>
+									<img src="/bitrix/templates/modern_blue_s3/images/eye_icon.png" title="Версия для<br>слабовидящих">
+
+									<!-- <span class="impaired_vision_text" itemprop="copy">
+										Версия для<br>слабовидящих									</span> -->
+								</a>
+							</span>
+						</span>
+						<span>
+                		 <span>
+									<a href="/search/"><img src="/bitrix/templates/modern_blue_s3/images/search3.png" width="40" style="margin-right: 20px; margin-left: ; margin-top: ; " title="Поиск по сайту"></a></span>
+                		</span>
+                								<span class="sub_header_language">
+							<span class="sub_header_inactive_language"><a href="/upload/iblock/18d/3-kurs-_SiSS_11.03.02-Infokommunikatsionnye-tekhnologii-i-sistemy-svyazi-VI.xlsx?lang=ru">RU</a></span>/<span  class='aa_en_vi'><a href="/upload/iblock/18d/3-kurs-_SiSS_11.03.02-Infokommunikatsionnye-tekhnologii-i-sistemy-svyazi-VI.xlsx?lang=en">EN</a></span>
+						</span>
+                    </div>
+                </div>
+
+            <!--search line & social netw-->
+            <!-- <div class="col col-mb-12 sub_header" style="margin-top: 6px; display: none;">
+                    <span style="flex-grow: 1;"></span>
+                    <div class="sub_header_right">                	
+
+                	<span>
+                		<span><a href="https://www.youtube.com/channel/UCE7cwcJTYJdcUclc7tCpdsg" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_yut.png" width="40" style="margin-right: 5px; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></a></span>
+                	</span> 
+                	<span>
+                		<span><a href="https://vk.com/mtuci" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_vk1.png" width="40" style="margin-right: 5px; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" ></a></span>
+                	</span>
+                	<span>
+                		<span><a href="https://www.facebook.com/mtuci.official" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_fas.png" width="40" style="margin-right: 5px; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></a></span>
+                	</span>
+                	<span>
+                		<span><a href="https://www.instagram.com/mtuci.live/" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_inst.png" width="40" style="margin-right: 5px; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></a></span>
+                	</span>
+                	<span>
+                		<span><a href="https://t.me/mtuci_live" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_telegr.png" width="40" style="margin-right: 5px; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></a></span>
+                	</span>                	                	                	                	
+                	<span>
+                		<span><a href="https://discord.com/invite/sUZHBEr" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_discord.png" width="40" style="margin-right:; margin-left: 5px; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></a></span>
+                	</span>                	
+
+
+
+                	                	                	
+               	
+
+
+               	                	
+                </div>
+                </div> -->
+                <!-- end search line & social netw-->
+            </div>
+            
+            </div>        
+    </header>
+</div>
+<div class="banner_block university_bg" style="min-height: 220px">
+	<div class="content">
+		<div class="col col-mb-12">
+ <span class="title" style="text-transform: none;font-size: 48px; line-height: 50px;font-weight: 500;">Ошибка 404 – страница не найдена</span>
+
+
+			<div class="subtitle_container">
+				<a href="/" class="subtitle"></a>
+				<span class="subtitle_divider"> / </span>
+				<a href="/about_the_university" class="subtitle"></a>
+				<span class="subtitle_divider"> / </span>
+				<a href="" class="subtitle subtitle_active"></a>
+			</div>
+
+ <span class="description" style="display: none">
+			 </span>
+		</div>
+	</div>
+</div>
+
+<div class="content">
+	<div class="col col-mb-12">
+<h3>К сожалению, запрашиваемая Вами страница не найдена</h3>
+<p>.</p>
+<p>Возможно, Вы ошиблись при написании адреса в адресной строке браузера либо страница была удалена или перемещена в другое место.</p>
+<p>Мы приносим свои извинения и предлагаем следующие пути решения:</p>
+<p>перейти на <a href="/"><strong>главную</strong></a> страницу или воспользоваться <a href="/search/"><strong>поиском</strong></a> по сайту.</p>
+<br>
+</div>
+</div>
+
+
+
+                                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="desktop_header_menu">
+    <div class="content">
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/education">Образование</a></div>
+                    <ul>
+                        <li><a href="/students/">Студентам</a></li>
+                        <li><a href="/abitur/">Абитуриентам</a></li>
+                        <li><a href="/about_the_university/departments/2298/">Департамент организации и управления учебным процессом</a></li>
+                        <li><a href="/science/aspirantura/">Аспирантура</a></li>
+                        <li><a href="/education/eios/">Система дистанционного обучения МТУСИ</a></li>
+                        <li><a href="/education/centers/">Учебные центры</a></li>
+						<li><a href="/education/second/">Второе высшее</a></li>
+						<!--li><a href="/education/dpo/">ДПО</a></li-->
+                        <li><a href="/about_the_university/departments/2760/">ДПО</a></li>
+						<li><a href="/education/paid/">Платные услуги</a></li>
+						<li><a href="/education/dovuz/">Довузовская подготовка</a></li>
+                        <li><a href="/education/intern_edu/">Обучение иностранных граждан / Education for foreign nationals</a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/about_the_university/science/">Наука</a></div>
+                    <ul>
+                        
+                        <li><a href="/about_the_university/departments/2302/">Научно-исследовательская часть</a></li>
+                        <li><a href="http://www.srd-mtuci.ru/index.php/ru/">Научные мероприятия</a></li>
+                        <!-- <li><a href="/science/partners/">Партнеры</a></li> -->
+                        <li><a href="/science/laboratories/">Лаборатории</a></li>
+                        <li><a href="/science/grants/">Конкурсы и гранты</a></li>
+                        <li><a href="/science/nts/">Научно-технический совет</a></li>
+                        <li><a href="/science/testing_center/">Испытательный центр МТУСИ</a></li>
+                        <li><a href="/about_the_university/departments/2842/">Научно-исследовательская работа студентов</a></li>
+                        <li><a href="/science/publications/">Публикационная активность</a></li>
+                        <li><a href="/science/smu/">Совет молодых ученых и специалистов МТУСИ</a></li>
+                      
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <!--div class="h4"><a class="h4" href="/about_the_university">Университет</a></div-->
+                    <div class="h4"><a class="h4" href="/about_the_university/">Университет</a></div>
+                    <ul> 
+                        
+                        <li><a href="/sveden/">Сведения об образовательной организации</a></li>
+                        <!--li><a href="/structure/">Структура</a></li-->
+                        <li><a href="/about_the_university/structure/">Структура</a></li>
+                        <li><a href="/education/eios/">ЭИОС</a></li>
+                        
+                        <li><a href="/about_the_university/filialy/">Филиалы</a></li>
+                        <li><a href="/about_the_university/history/">История</a></li>
+                        <li><a href="/about_the_university/news/">Новости</a></li>
+                        <li><a href="/about_the_university/uch-sovet/">Ученый совет</a></li>
+                        <li><a href="/about_the_university/international_activity/">Международная деятельность</a></li>
+                        <li><a href="/about_the_university/tenders/">Закупочная деятельность</a></li>
+                        <li><a href="/about_the_university/partners-list/">Партнеры</a></li>
+                        <li><a href="/about_the_university/anticorruption/">Противодействие коррупции</a></li>
+                        <!--li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li-->
+                        <li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li>
+                        <li><a href="/staff/">Сотрудникам</a></li>
+                        <li><a href="/about_the_university/press/">Пресс-служба</a></li>
+                        <li><a href="https://museum.mtuci.ru/lp/">Музей</a></li>
+                        <li><a href="/structure/rector/solicitude/">Попечительский совет</a></li>
+                        <li><a href="/sveden/contacts/">Контакты</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+
+                    <div class="h4"><a class="h4" href="/dep/">Факультеты</a></div>
+                                        
+<ul>
+	
+    <li><a href="/about_the_university/departments/304/">Информационные технологии</a></li>
+	
+    <li><a href="/about_the_university/departments/2444/">Кибернетика и информационная безопасность</a></li>
+	
+    <li><a href="/about_the_university/departments/306/">Сети и системы связи</a></li>
+	
+    <li><a href="/about_the_university/departments/305/">Радио и телевидение</a></li>
+	
+    <li><a href="/about_the_university/departments/307/">Цифровая экономика и массовые коммуникации</a></li>
+	
+    <li><a href="/about_the_university/departments/2760/">Институт повышения квалификации</a></li>
+	
+    <li><a href="/about_the_university/departments/523/">Центр заочного обучения по программам бакалавриата</a></li>
+	
+    <li><a href="/about_the_university/departments/524/">Центр заочного обучения  по программам магистратуры</a></li>
+	
+    <li><a href="/about_the_university/departments/1849/">Центр индивидуального обучения</a></li>
+</ul>                </li>
+            </ul>
+        </div> 
+    </div> 
+</div>
+
+<div class="footer-wrapper">
+
+    <footer class="container container-footer">
+
+
+    <div class="content footer-menu-content" style="padding-left: 0px!important; padding-right: 0px!important">
+
+        <div class="col col-mb-12 col-12">
+            <form action="/about_the_university/feedback/" method="post">
+                <div class="content subscribe_form " style="margin: 0px!important; margin-bottom: 10px!important;padding-left: 0px!important; padding-right: 0px!important">
+                	<div>
+	                    <div class="col col-mb-12 col-4 text" style="font-size: 18px;line-height: 24px;color: #FFFFFF;font-weight: 700;padding-left: 0px;padding-bottom: 12px">
+	                        Отправьте заявку на поступление и&nbsp;<br>
+ получите приглашение на почту!<br>	                    </div>
+	                    <div class="col col-mb-12 col-2">
+	                        <input type="text" name="newsletter_name" class="input" placeholder="Имя">
+	                    </div>
+	                    <div class="col col-mb-12 col-3">
+	                        <input type="email" name="newsletter_email" class="input" placeholder="email@example.com">
+	                    </div>
+	                    <div class="col col-mb-12 col-3">
+	                        <button class="subscribe_button animated_button">Отправить</button>
+	                    </div>
+	                </div>
+	                <div class="tos_text">
+	                	Нажимая на кнопку, вы даете согласие на <a href="/sveden/document/doc/Политика МТУСИ.pdf" target="_blank">обработку своих персональных данных</a>
+	                </div>
+
+                </div>
+
+                <hr class="footer_subscribe_separator">
+
+            </form>
+        </div>
+
+    <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/education">Образование</a></div>
+
+                    <ul>
+                        <li><a href="/students/">Студентам</a></li>
+                        <li><a href="/abitur/">Абитуриентам</a></li>
+                        <li><a href="/about_the_university/departments/2298/">Департамент организации и управления учебным процессом</a></li>
+                        <li><a href="/science/aspirantura/">Аспирантура</a></li>
+                        <li><a href="/education/eios/">Система дистанционного обучения МТУСИ</a></li>
+                        <li><a href="/education/centers/">Учебные центры</a></li>
+                        <li><a href="/education/second/">Второе высшее</a></li>
+                        <!--li><a href="/education/dpo/">ДПО</a></li-->
+                        <li><a href="/about_the_university/departments/2760/">ДПО</a></li>
+                        <li><a href="/education/paid/">Платные услуги</a></li>
+                        <li><a href="/education/dovuz/">Довузовская подготовка</a></li>
+                        <li><a href="/education/intern_edu/">Обучение иностранных граждан / Education for foreign nationals</a></li>
+                        
+                    </ul>                    
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/about_the_university/science">Наука</a></div>
+                     <ul>
+                        
+                        <li><a href="/about_the_university/departments/2302/">Научно-исследовательская часть</a></li>
+                        <li><a href="http://www.srd-mtuci.ru/index.php/ru/">Научные мероприятия</a></li>
+                        <!-- <li><a href="/science/partners/">Партнеры</a></li> -->
+                        <li><a href="/science/laboratories/">Лаборатории</a></li>
+                        <li><a href="/science/grants/">Конкурсы и гранты</a></li>
+                        <li><a href="/science/nts/">Научно-технический совет</a></li>
+                        <li><a href="/science/testing_center/">Испытательный центр МТУСИ</a></li>
+                        <li><a href="/about_the_university/departments/2842/">Научно-исследовательская работа студентов</a></li>
+                        <li><a href="/science/publications/">Публикационная активность</a></li>
+                        <li><a href="/science/smu/">Совет молодых ученых и специалистов МТУСИ</a></li>
+                      
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4"><a class="h4" href="/about_the_university/">Университет</a></div>
+                    <ul> 
+                        
+                        <li><a href="/sveden/">Сведения об образовательной организации</a></li>
+                        <!--li><a href="/structure/">Структура</a></li-->
+                        <li><a href="/about_the_university/structure/">Структура</a></li>
+                        <li><a href="/education/eios/">ЭИОС</a></li>
+                        
+                        <li><a href="/about_the_university/filialy/">Филиалы</a></li>
+                        <li><a href="/about_the_university/history/">История</a></li>
+                        <li><a href="/about_the_university/news/">Новости</a></li>
+                        <li><a href="/about_the_university/uch-sovet/">Ученый совет</a></li>
+                        <li><a href="/about_the_university/international_activity/">Международная деятельность</a></li>
+                        <li><a href="/about_the_university/tenders/">Закупочная деятельность</a></li>
+                        <li><a href="/about_the_university/partners-list/">Партнеры</a></li>
+                        <li><a href="/about_the_university/anticorruption/">Противодействие коррупции</a></li>
+                        <!--li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li-->
+                        <li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li>
+                        <li><a href="/staff/">Сотрудникам</a></li>
+                        <li><a href="/about_the_university/press/">Пресс-служба</a></li>
+                        <li><a href="https://museum.mtuci.ru/lp/">Музей</a></li>
+                        <li><a href="/structure/rector/solicitude/">Попечительский совет</a></li
+                        <li><a href="/sveden/contacts/">Контакты</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+
+                    <div class="h4"><a class="h4" href="/dep/">Факультеты</a></div>
+
+                    
+<ul>
+	
+    <li><a href="/about_the_university/departments/304/">Информационные технологии</a></li>
+	
+    <li><a href="/about_the_university/departments/2444/">Кибернетика и информационная безопасность</a></li>
+	
+    <li><a href="/about_the_university/departments/306/">Сети и системы связи</a></li>
+	
+    <li><a href="/about_the_university/departments/305/">Радио и телевидение</a></li>
+	
+    <li><a href="/about_the_university/departments/307/">Цифровая экономика и массовые коммуникации</a></li>
+	
+    <li><a href="/about_the_university/departments/2760/">Институт повышения квалификации</a></li>
+	
+    <li><a href="/about_the_university/departments/523/">Центр заочного обучения по программам бакалавриата</a></li>
+	
+    <li><a href="/about_the_university/departments/524/">Центр заочного обучения  по программам магистратуры</a></li>
+	
+    <li><a href="/about_the_university/departments/1849/">Центр индивидуального обучения</a></li>
+</ul>                </li>
+            </ul>
+        </div>
+
+        <div class="col col-mb-12 col-6 menu">
+            <div>
+                    <!-- <span class="littleFade">
+                        <span><a href="https://www.instagram.com/mtuci.official/" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_instagram_1.png" style="margin-right: 10px; margin-left: 10px; "></a></span>
+                    </span> -->
+                    <span class="littleFade">
+                        <span><a href="https://vk.com/mtuci" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_vk_1.png" style="margin-right: 25px; margin-left: 0px; " ></a></span>
+                    </span> 
+                    <span class="littleFade">
+                        <span><a href="https://zen.yandex.ru/id/622f18662c8c4f6acc4127c2" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_Yandex_Zen_30_1.png" style="margin-right: 25px; margin-left: 25px; "></a></span>
+                    </span>                                   
+                    <!-- <span class="littleFade">
+                        <span><a href="https://www.youtube.com/channel/UCE7cwcJTYJdcUclc7tCpdsg" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_youtube_1.png" style="margin-right: 25px; margin-left: 25px; "></a></span>
+                    </span> --> 
+                    <span class="littleFade">
+                        <span><a href="https://t.me/mtuci_live" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_telegram_1.png" style="margin-right: 25px; margin-left: 25px; "></a></span>
+                    </span>                                                                             
+                    <span class="littleFade">
+                        <span><a href="https://discord.com/invite/sUZHBEr" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_discord_1.png" style="margin-right: 25px; margin-left: 25px; "></a></span>
+                    </span>
+                    <!-- <span class="littleFade">
+                        <span><a href="https://www.facebook.com/mtuci.official" target="_blank"><img src="/bitrix/templates/modern_blue_s3/images/ss_facebook_1.png" style="margin-right: 10px; margin-left: 10px; "></a></span>
+                    </span> -->                    
+            </div>
+            <ul style="margin-top: 30px;">
+                <li class="col-margin-bottom">
+
+                    <div class="h4">Контакты Университета</div>
+                    <div class="closed_menu_content">
+                    <span class="university_contacts_division">МТУСИ на Авиамоторной</span> <span class="university_contacts_address">111024, г. Москва, улица Авиамоторная, дом 8а</span>
+<div class="university_contacts_container">
+	<div>
+ <span class="university_contacts_division">Телефон</span> <span class="university_contacts_address">
+		+7 (495) 957-77-31 <br>
+		 +7 (495) 957-77-36 </span>
+	</div>
+	<div>
+ <span class="university_contacts_division">Email</span> <span class="university_contacts_address">
+		mtuci@mtuci.ru </span>
+	</div>
+</div>                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col col-mb-12 col-6 menu">
+            <div style="height: 44px;"></div>
+            <ul style="margin-top: 30px;">
+                <li class="col-margin-bottom">
+
+                    <div class="h4">Приемная комиссия</div>
+                    <div class="closed_menu_content">
+                    <span class="university_contacts_division">Адрес</span>
+<span class="university_contacts_address">111024, г. Москва, улица Авиамоторная,<br>дом 8а, строение 39</span>
+
+<div class="university_contacts_container">
+	<div>
+		<span class="university_contacts_division">Телефон</span>
+		<span class="university_contacts_address">
+			+7 (495) 673-36-25
+		</span>
+	</div>
+	<div>
+		<span class="university_contacts_division">Email</span>
+		<span class="university_contacts_address">
+			pk@mtuci.ru
+		</span>
+	</div>
+</div>                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="content sub-footer" style="padding-left: 0px!important; padding-right: 0px!important;">
+        <div class="col col-mb-12 col-12">
+            <div class="ministry_container">
+                <a href="https://www.minobrnauki.gov.ru/" target="_blank">
+                    <img src="/bitrix/templates/modern_blue_s3/images/ministry_logo1.png" style="width: 88px; height: 92px;">
+                    <span>Министерство науки и высшего<br>образования Российской Федерации</span>
+                </a>
+            </div>
+            <div class="ministry_container" style="margin-left: 50px;">
+                <a href="https://digital.gov.ru/" target="_blank">
+                    <img src="/bitrix/templates/modern_blue_s3/images/ministry_logo4_sm1.png" style="width: 86px; height: 98px;">
+                    <span>МТУСИ является подведомственным вузом<br>Министерства цифрового развития, связи и массовых<br>коммуникаций Российской Федерации</span>
+                </a>
+            </div>
+        </div>
+        <div class="col col-mb-12 col-12">
+            <div class="ministry_container" style="margin-top: 70px!important;font-size: 12px;">
+                <span>© Все права защищены. Перепечатка и копирование любого содержания сайта разрешается только с письменного согласия.</span>
+            </div>
+        </div>
+    </div>
+
+    </footer>
+</div> <!-- .footer-wrapper -->
+
+<div class="mobile-nav-wrapper">
+    <div class="mobile-nav">
+        <ul class="static_links">
+            <li>
+                <!-- <a href="/abitur">Абитуриенту</a> -->
+                <a href="https://abitur.mtuci.ru/">Абитуриенту</a>
+            </li>
+            <li>
+                <a href="/students/">Студентам</a>
+            </li>
+            <li>
+                <a href="/staff/">Сотрудникам</a>
+            </li>
+            <li style="margin-right: 30px">
+                <a href="/about_the_university/">Об университете</a>
+            </li>
+        </ul>
+
+        <div class="content footer-menu-content">
+
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/education">Образование</a></div>
+                    <ul>
+                        <li><a href="/students/">Студентам</a></li>
+                        <li><a href="/abitur/">Абитуриентам</a></li>
+                        <li><a href="/about_the_university/departments/2298/">Департамент организации и управления учебным процессом</a></li>
+                        <li><a href="/science/aspirantura/">Аспирантура</a></li>
+                        <li><a href="/education/eios/">Система дистанционного обучения МТУСИ</a></li>
+                        <li><a href="/education/centers/">Учебные центры</a></li>
+                        <li><a href="/education/second/">Второе высшее</a></li>
+                        <!--li><a href="/education/dpo/">ДПО</a></li-->
+                        <li><a href="/about_the_university/departments/2760/">ДПО</a></li>
+                        <li><a href="/education/paid/">Платные услуги</a></li>
+                        <li><a href="/education/dovuz/">Довузовская подготовка</a></li>
+                        <li><a href="/education/intern_edu/">Обучение иностранных граждан / Education for foreign nationals</a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <div class="h4" style="margin-top: 0px;"><a class="h4" href="/about_the_university/science">Наука</a></div>
+                    <ul>
+                        
+                        <li><a href="/about_the_university/departments/2302/">Научно-исследовательская часть</a></li>
+                        <li><a href="http://www.srd-mtuci.ru/index.php/ru/">Научные мероприятия</a></li>
+                        <!-- <li><a href="/science/partners/">Партнеры</a></li> -->
+                        <li><a href="/science/laboratories/">Лаборатории</a></li>
+                        <li><a href="/science/grants/">Конкурсы и гранты</a></li>
+                        <li><a href="/science/nts/">Научно-технический совет</a></li>
+                        <li><a href="/science/testing_center/">Испытательный центр МТУСИ</a></li>
+                        <li><a href="/about_the_university/departments/2842/">Научно-исследовательская работа студентов</a></li>
+                        <li><a href="/science/publications/">Публикационная активность</a></li>
+                        <li><a href="/science/smu/">Совет молодых ученых и специалистов МТУСИ</a></li>
+                      
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+                    <!--div class="h4"><a class="h4" href="/about_the_university">Университет</a></div-->
+                    <div class="h4"><a class="h4" href="/about_the_university/">Университет</a></div>
+                     <ul> 
+                        
+                        <li><a href="/sveden/">Сведения об образовательной организации</a></li>
+                        <!--li><a href="/structure/">Структура</a></li-->
+                        <li><a href="/about_the_university/structure/">Структура</a></li>
+                        <li><a href="/education/eios/">ЭИОС</a></li>
+                        
+                        <li><a href="/about_the_university/filialy/">Филиалы</a></li>
+                        <li><a href="/about_the_university/history/">История</a></li>
+                        <li><a href="/about_the_university/news/">Новости</a></li>
+                        <li><a href="/about_the_university/uch-sovet/">Ученый совет</a></li>
+                        <li><a href="/about_the_university/international_activity/">Международная деятельность</a></li>
+                        <li><a href="/about_the_university/tenders/">Закупочная деятельность</a></li>
+                        <li><a href="/about_the_university/partners-list/">Партнеры</a></li>
+                        <li><a href="/about_the_university/anticorruption/">Противодействие коррупции</a></li>
+                        <!--li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li-->
+                        <li><a href="/about_the_university/antiterror/">Наука и образование против террора</a></li>
+                        <li><a href="/staff/">Сотрудникам</a></li>
+                        <li><a href="/about_the_university/press/">Пресс-служба</a></li>
+                        <li><a href="https://museum.mtuci.ru/lp/">Музей</a></li>
+                        <li><a href="/structure/rector/solicitude/">Попечительский совет</a></li
+                        <li><a href="/sveden/contacts/">Контакты</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="col col-mb-12 col-3 menu">
+            <ul>
+                <li class="col-margin-bottom">
+
+                    <div class="h4">Факультеты</div>
+ 
+                    
+<ul>
+	
+    <li><a href="/about_the_university/departments/304/">Информационные технологии</a></li>
+	
+    <li><a href="/about_the_university/departments/2444/">Кибернетика и информационная безопасность</a></li>
+	
+    <li><a href="/about_the_university/departments/306/">Сети и системы связи</a></li>
+	
+    <li><a href="/about_the_university/departments/305/">Радио и телевидение</a></li>
+	
+    <li><a href="/about_the_university/departments/307/">Цифровая экономика и массовые коммуникации</a></li>
+	
+    <li><a href="/about_the_university/departments/2760/">Институт повышения квалификации</a></li>
+	
+    <li><a href="/about_the_university/departments/523/">Центр заочного обучения по программам бакалавриата</a></li>
+	
+    <li><a href="/about_the_university/departments/524/">Центр заочного обучения  по программам магистратуры</a></li>
+	
+    <li><a href="/about_the_university/departments/1849/">Центр индивидуального обучения</a></li>
+</ul>                </li>
+            </ul>
+        </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&apikey=5504c1ac-4bb3-42c7-8e39-5a9b85c438d1
+" type="text/javascript"></script>
+
+</body>
+</html>
